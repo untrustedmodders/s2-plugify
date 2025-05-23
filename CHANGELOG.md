@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.16](https://github.com/untrustedmodders/s2-plugify/compare/v1.0.15...v1.0.16) (2025-05-23)
+
+
+### Bug Fixes
+
+* update deps ([3ba4745](https://github.com/untrustedmodders/s2-plugify/commit/3ba4745dd846062b59c514cbd7cdb39bcc432b99))
+
 ## [1.0.15](https://github.com/untrustedmodders/s2-plugify/compare/v1.0.14...v1.0.15) (2025-04-27)
 
 
