@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.18](https://github.com/untrustedmodders/s2-plugify/compare/v1.0.17...v1.0.18) (2025-06-03)
+
+
+### Bug Fixes
+
+* add crashpad console logger ([963d0b3](https://github.com/untrustedmodders/s2-plugify/commit/963d0b3cd1f1fe6ceb4f9189ef31084daf0a224d))
+* add deadlock support ([d73d633](https://github.com/untrustedmodders/s2-plugify/commit/d73d633b89f56042509ade9b6e5c8d1f0a6f6bba))
+* exports for macos ([c8d5f1a](https://github.com/untrustedmodders/s2-plugify/commit/c8d5f1a8439eeb49103cab8eb419f856d84472c0))
+* **GCC warnings:** update Source SDK module ([128c6db](https://github.com/untrustedmodders/s2-plugify/commit/128c6dbbec65427dd4667141fd16aec638f5cef1))
+* logger listener ([bb2249e](https://github.com/untrustedmodders/s2-plugify/commit/bb2249eb18e1c89447db3557b559a0043cfddbf5))
+
 ## [1.0.17](https://github.com/untrustedmodders/s2-plugify/compare/v1.0.16...v1.0.17) (2025-05-26)
 
 
