@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.20](https://github.com/untrustedmodders/s2-plugify/compare/v1.0.19...v1.0.20) (2025-06-28)
+
+
+### Bug Fixes
+
+* update readme and add missing permission ([69d5214](https://github.com/untrustedmodders/s2-plugify/commit/69d5214ff4a8085d5f5237a694fadac296d82c7a))
+
 ## [1.0.19](https://github.com/untrustedmodders/s2-plugify/compare/v1.0.18...v1.0.19) (2025-06-26)
 
 
